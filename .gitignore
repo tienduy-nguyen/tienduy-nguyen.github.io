@@ -1,0 +1,42 @@
+/*
+!.github
+!.devcontainer
+.devcontainer/labels
+!.gitattributes
+!.gitignore
+
+!app.html
+!deno.json
+!mod.ts
+!README.md
+!tsconfig.json
+
+# Svelte components
+!components
+components/**/*.*
+!components/**/*.svelte
+
+# DinoSsr routes
+!routes
+routes/**/*.*
+!routes/**/*.svelte
+!routes/**/*.ts
+
+# Source files
+!src
+src/**/*.*
+!src/*.ts
+!src/css/**/*.css
+!src/data/**/*.md
+
+# Static files
+!public
+public/*
+!public/assets
+!public/images
+!public/_headers
+!public/_redirects
+!public/favicon.ico
+!public/manifest.webmanifest
+!public/robots.txt
+!public/sw.js
