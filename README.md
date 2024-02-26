@@ -1,6 +1,6 @@
 ## My personal web site
 
-[https://tienduy-nguyen.github.io)](https://tienduy-nguyen.github.io)
+[https://tienduy-nguyen.github.io](https://tienduy-nguyen.github.io)
 
 This is my personal static web site created with Jekyll. Jekyll is awesone static site generator make the web site so fast.
 
